@@ -1,0 +1,11 @@
+{
+  "rss_feeds": [
+    {"nome": "MIT Technology Review Brasil", "url": "https://mittechreview.com.br/feed/"},
+    {"nome": "Olhar Digital IA", "url": "https://olhardigital.com.br/categoria/inteligencia-artificial/feed/"},
+    {"nome": "Tecmundo", "url": "https://www.tecmundo.com.br/rss"},
+    {"nome": "Startupi", "url": "https://startupi.com.br/feed/"},
+    {"nome": "Valor Econômico Empresas", "url": "https://valor.globo.com/empresas/rss/"},
+    {"nome": "Exame Tecnologia", "url": "https://exame.com/tecnologia/feed/"},
+    {"nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/"}
+  ]
+}

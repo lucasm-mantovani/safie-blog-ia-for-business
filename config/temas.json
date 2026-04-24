@@ -1,0 +1,44 @@
+{
+  "temas": [
+    {
+      "nome": "Regulação de IA no Brasil",
+      "slug": "regulacao-ia-brasil",
+      "palavras_chave": ["PL 2338 IA", "marco legal IA Brasil", "regulação inteligência artificial", "ANPD IA", "CNPD IA"]
+    },
+    {
+      "nome": "AI Act e regulação internacional",
+      "slug": "ai-act",
+      "palavras_chave": ["AI Act Europa", "regulação IA EUA", "IA China regulação", "governança IA global"]
+    },
+    {
+      "nome": "Direitos autorais e IA generativa",
+      "slug": "direitos-autorais-ia",
+      "palavras_chave": ["copyright IA", "direitos autorais IA generativa", "treinamento IA dados", "propriedade intelectual IA"]
+    },
+    {
+      "nome": "LGPD e proteção de dados em IA",
+      "slug": "lgpd-ia",
+      "palavras_chave": ["LGPD inteligência artificial", "dados pessoais IA", "ANPD machine learning", "privacidade IA"]
+    },
+    {
+      "nome": "Contratos e responsabilidade em IA",
+      "slug": "contratos-ia",
+      "palavras_chave": ["contrato software IA", "responsabilidade civil IA", "cláusula IA contrato", "SLA IA"]
+    },
+    {
+      "nome": "Tributação de empresas de tecnologia e IA",
+      "slug": "tributacao-tech-ia",
+      "palavras_chave": ["tributação software Brasil", "ISS software SaaS", "tributação empresa IA", "Lei do Bem tecnologia"]
+    },
+    {
+      "nome": "Investimento em IA e deep tech",
+      "slug": "investimento-ia",
+      "palavras_chave": ["venture capital IA", "rodada startup IA Brasil", "deep tech investimento", "aquisição startup IA"]
+    },
+    {
+      "nome": "IA no trabalho e questões trabalhistas",
+      "slug": "ia-trabalhista",
+      "palavras_chave": ["IA demissão automatizada", "substituição IA trabalhista", "direito trabalho IA", "automação trabalho"]
+    }
+  ]
+}
