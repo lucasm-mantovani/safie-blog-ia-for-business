@@ -1,0 +1,24 @@
+2026-04-24 00:50:16,621 [INFO] ============================================================
+2026-04-24 00:50:16,621 [INFO] GERAR ARTIGO — início
+2026-04-24 00:50:16,621 [INFO] Notícia: Cuidado contínuo: IA e saúde preventiva
+2026-04-24 00:50:16,621 [INFO] Tema: Regulação de IA no Brasil
+2026-04-24 00:50:16,621 [INFO] [Claude] Gerando artigo...
+2026-04-24 00:51:17,311 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-24 00:51:17,339 [INFO] [Claude] Tokens usados — input: 1149, output: 3306
+2026-04-24 00:51:17,339 [INFO] [Claude] Parseando resposta...
+2026-04-24 00:51:17,339 [INFO] Artigo gerado: 'IA na Saúde: Regulação e Riscos Jurídicos no Brasil' (830 palavras)
+2026-04-24 00:51:17,339 [INFO] Slug: 2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil
+2026-04-24 00:51:17,340 [INFO] Artigo salvo em /Users/lucasm.mantovani/CLAUDE/Blog-ia-for-business/dados/artigo_gerado.json
+2026-04-24 00:51:17,340 [INFO] ============================================================
+2026-04-24 08:00:51,749 [INFO] ============================================================
+2026-04-24 08:00:51,749 [INFO] GERAR ARTIGO — início
+2026-04-24 08:00:51,749 [INFO] Notícia: Ninguém sabe se as bactérias-espelho vão nos matar
+2026-04-24 08:00:51,749 [INFO] Tema: Regulação de IA no Brasil
+2026-04-24 08:00:51,749 [INFO] [Claude] Gerando artigo...
+2026-04-24 08:01:41,355 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-24 08:01:41,394 [INFO] [Claude] Tokens usados — input: 1161, output: 2953
+2026-04-24 08:01:41,395 [INFO] [Claude] Parseando resposta...
+2026-04-24 08:01:41,396 [INFO] Artigo gerado: 'Regulação de IA no Brasil: o que muda em 2026' (802 palavras)
+2026-04-24 08:01:41,396 [INFO] Slug: 2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026
+2026-04-24 08:01:41,397 [INFO] Artigo salvo em /Users/lucasm.mantovani/CLAUDE/Blog-ia-for-business/dados/artigo_gerado.json
+2026-04-24 08:01:41,397 [INFO] ============================================================
