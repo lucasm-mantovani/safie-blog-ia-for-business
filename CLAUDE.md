@@ -75,9 +75,11 @@ Blog-ia-for-business/
 - **Fase 2 concluída:** Interface HTML/CSS — identidade SAFIE, busca JS, todos os templates
 - **Fase 3 concluída:** buscar_noticia.py — RSS funcionando (sem Apify)
 - **Fase 4 concluída:** gerar_artigo.py + publicar.py + rodar_diario.sh — 1º artigo publicado
-- **Fase 5 parcialmente concluída:**
+- **Fase 5 concluída:**
   - GitHub: https://github.com/lucasm-mantovani/safie-blog-ia-for-business (público, no ar)
+  - Cloudflare Pages: https://safie-blog-ia-for-business.pages.dev (no ar e funcionando)
   - Launchd: configurado, roda todo dia às 8h (br.safie.blog.ia-for-business.diario)
-  - Cloudflare Pages: PENDENTE (criar manualmente no painel)
-  - DNS: PENDENTE — criar CNAME "ia" → safie-blog-ia-for-business.pages.dev no Registro.br
-- **Fase 6:** Validação SEO e documentação final — PENDENTE
+  - DNS pendente: aguardando pagamento safie.blog.br no Registro.br
+  - Após pagamento: criar CNAME "ia" → safie-blog-ia-for-business.pages.dev
+  - Depois: adicionar domínio ia.safie.blog.br no Cloudflare Pages (Custom domains)
+- **Fase 6 concluída:** Validação SEO, páginas de tema pré-geradas, REPLICAR.md criado
