@@ -68,5 +68,11 @@
   </url>
 
   <!-- Artigos adicionados automaticamente pelo publicar.py -->
+  <url>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
 </urlset>
