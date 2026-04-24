@@ -71,9 +71,13 @@ Blog-ia-for-business/
 - Tom: técnico, direto, sem juridiquês, sem clichês
 
 ## Estado atual do projeto (2026-04-24)
-- **Fase 1 concluída:** Estrutura de pastas, configs, Git — PENDENTE INICIALIZAÇÃO GIT
-- **Fase 2:** Interface HTML/CSS — PENDENTE
-- **Fase 3:** buscar_noticia.py — PENDENTE
-- **Fase 4:** gerar_artigo.py + publicar.py + rodar_diario.sh — PENDENTE
-- **Fase 5:** GitHub + Cloudflare Pages + launchd — PENDENTE
+- **Fase 1 concluída:** Estrutura de pastas, configs, Git inicializado
+- **Fase 2 concluída:** Interface HTML/CSS — identidade SAFIE, busca JS, todos os templates
+- **Fase 3 concluída:** buscar_noticia.py — RSS funcionando (sem Apify)
+- **Fase 4 concluída:** gerar_artigo.py + publicar.py + rodar_diario.sh — 1º artigo publicado
+- **Fase 5 parcialmente concluída:**
+  - GitHub: https://github.com/lucasm-mantovani/safie-blog-ia-for-business (público, no ar)
+  - Launchd: configurado, roda todo dia às 8h (br.safie.blog.ia-for-business.diario)
+  - Cloudflare Pages: PENDENTE (criar manualmente no painel)
+  - DNS: PENDENTE — criar CNAME "ia" → safie-blog-ia-for-business.pages.dev no Registro.br
 - **Fase 6:** Validação SEO e documentação final — PENDENTE
