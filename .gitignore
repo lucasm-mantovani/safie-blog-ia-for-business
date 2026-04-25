@@ -1,0 +1,8 @@
+.env
+logs/
+dados/artigo_gerado.json
+dados/noticia_selecionada.json
+dados/consumo_apify.json
+__pycache__/
+*.pyc
+.DS_Store
