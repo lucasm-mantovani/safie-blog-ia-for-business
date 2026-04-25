@@ -1,0 +1,12 @@
+2026-04-25 08:00:56,330 [INFO] ============================================================
+2026-04-25 08:00:56,330 [INFO] GERAR ARTIGO — início
+2026-04-25 08:00:56,330 [INFO] Notícia: Golpistas cibernéticos burlam bancos com ferramentas ilícitas do Telegram
+2026-04-25 08:00:56,330 [INFO] Tema: Regulação de IA no Brasil
+2026-04-25 08:00:56,330 [INFO] [Claude] Gerando artigo...
+2026-04-25 08:01:52,113 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-25 08:01:52,152 [INFO] [Claude] Tokens usados — input: 1165, output: 3020
+2026-04-25 08:01:52,153 [INFO] [Claude] Parseando resposta...
+2026-04-25 08:01:52,153 [INFO] Artigo gerado: 'Regulação de IA no Brasil: KYC, Fraudes e Compliance' (814 palavras)
+2026-04-25 08:01:52,153 [INFO] Slug: 2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance
+2026-04-25 08:01:52,154 [INFO] Artigo salvo em /Users/lucasm.mantovani/CLAUDE/Blog-ia-for-business/dados/artigo_gerado.json
+2026-04-25 08:01:52,154 [INFO] ============================================================

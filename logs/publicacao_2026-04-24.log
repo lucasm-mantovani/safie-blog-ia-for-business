@@ -19,3 +19,44 @@
 2026-04-24 08:01:41,476 [INFO] Página de tema atualizada: /Users/lucasm.mantovani/CLAUDE/Blog-ia-for-business/temas/regulacao-ia-brasil.html
 2026-04-24 08:01:41,476 [INFO] Sitemap atualizado
 2026-04-24 08:01:41,476 [INFO] [Git] Adicionando arquivos...
+2026-04-24 08:01:41,492 [INFO] [Git] Commit: post: 2026-04-24 — Regulação de IA no Brasil: o que muda em 2026
+2026-04-24 08:01:41,516 [INFO] [Git] Push para GitHub...
+2026-04-24 08:01:42,445 [WARNING] Git: git push origin main — remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— Anthropic API Key —————————————————————————————————        
+remote:        locations:        
+remote:          - commit: d90d782f26bc3ab5c04b0e141afbd699daaed29b        
+remote:            path: .env:1        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/lucasm-mantovani/safie-blog-ia-for-business/security/secret-scanning/unblock-secret/3Cnk16Bd26pbbazD7TebMnMOxHa        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: d90d782f26bc3ab5c04b0e141afbd699daaed29b        
+remote:            path: .env:2        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/lucasm-mantovani/safie-blog-ia-for-business/security/secret-scanning/unblock-secret/3Cnk0zzJwSS7qrWtVzO7T1j8ErS        
+remote:             
+remote: 
+remote: 
+To https://github.com/lucasm-mantovani/safie-blog-ia-for-business.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/lucasm-mantovani/safie-blog-ia-for-business.git'
+2026-04-24 08:01:42,446 [ERROR] [Git] Falha no push. Verifique GITHUB_TOKEN e GITHUB_REPO no .env
+2026-04-24 08:01:42,446 [INFO] ============================================================
+2026-04-24 08:01:42,446 [INFO] PUBLICAÇÃO CONCLUÍDA: https://ia.safie.blog.br/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html
+2026-04-24 08:01:42,446 [INFO] ============================================================
