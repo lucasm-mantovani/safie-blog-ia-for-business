@@ -10,6 +10,10 @@
   "artigos_por_pagina": 10,
   "identidade_visual": {
     "fonte_referencia": "https://safie.com.br",
-    "herdar_de": "Blog-Cripto"
+    "herdar_de": "Blog-Cripto",
+    "cor_destaque_imagem": "#a78bfa",
+    "cor_acento_site": "#7c3aed",
+    "fundo_imagem_inicio": "#0f0a1a",
+    "fundo_imagem_fim": "#1a1428"
   }
 }
