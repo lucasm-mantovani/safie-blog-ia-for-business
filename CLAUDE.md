@@ -78,8 +78,11 @@ Blog-ia-for-business/
 - **Fase 5 concluída:**
   - GitHub: https://github.com/lucasm-mantovani/safie-blog-ia-for-business (público, no ar)
   - Cloudflare Pages: https://safie-blog-ia-for-business.pages.dev (no ar e funcionando)
-  - Launchd: configurado, roda todo dia às 8h (br.safie.blog.ia-for-business.diario)
-  - DNS pendente: aguardando pagamento safie.blog.br no Registro.br
-  - Após pagamento: criar CNAME "ia" → safie-blog-ia-for-business.pages.dev
-  - Depois: adicionar domínio ia.safie.blog.br no Cloudflare Pages (Custom domains)
-- **Fase 6 concluída:** Validação SEO, páginas de tema pré-geradas, REPLICAR.md criado
+  - Launchd: configurado, roda todo dia às 8h
+  - Domínio: ia.safie.blog.br (DNS propagado em 2026-04-28)
+- **Fase 6 concluída (2026-04-28):**
+  - DNS propagado e HTTP 200 confirmados
+  - robots.txt + sitemap.xml funcionando
+  - Schema.org BlogPosting + FAQPage em todos os artigos
+  - meta robots, keywords, og:*, twitter:* no template
+  - Validação manual opcional: Google Rich Results Test + PageSpeed Insights
