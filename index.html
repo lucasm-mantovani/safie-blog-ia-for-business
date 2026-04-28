@@ -4,27 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>SAFIE IA for Business — Direito e contabilidade para empresas de IA</title>
-  <meta name="description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais, tributação e contratos para empresas que usam ou desenvolvem inteligência artificial. Atualizado diariamente pela SAFIE.">
+  <title>SAFIE IA for Business — Análise jurídica e contábil sobre regulação de IA, LGPD, dir</title>
+  <meta name="description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais e tributação para empresas de tecnologia. Atualizado diariamente pela SAFIE.">
   <link rel="canonical" href="https://ia.safie.blog.br/">
 
   <meta property="og:type"        content="website">
-  <meta property="og:title"       content="SAFIE IA for Business — Direito e contabilidade para empresas de IA">
-  <meta property="og:description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais, tributação e contratos para empresas de inteligência artificial.">
+  <meta property="og:title"       content="SAFIE IA for Business — Direito e contabilidade para empresas que usam inteligência artificial">
+  <meta property="og:description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais e contratos tech.">
   <meta property="og:url"         content="https://ia.safie.blog.br/">
   <meta property="og:site_name"   content="SAFIE IA for Business">
   <meta property="og:locale"      content="pt_BR">
 
   <meta name="twitter:card"        content="summary_large_image">
-  <meta name="twitter:title"       content="SAFIE IA for Business — Direito e contabilidade para empresas de IA">
-  <meta name="twitter:description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais e tributação para empresas de tecnologia.">
+  <meta name="twitter:title"       content="SAFIE IA for Business — Direito e contabilidade para empresas que usam inteligência artificial">
+  <meta name="twitter:description" content="Análise jurídica e contábil sobre regulação de IA, LGPD, direitos autorais e contratos tech.">
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Blog",
     "name": "SAFIE IA for Business",
-    "description": "Direito e contabilidade para empresas de IA e tecnologia disruptiva no Brasil",
+    "description": "Direito e contabilidade para empresas que usam inteligência artificial",
     "url": "https://ia.safie.blog.br",
     "publisher": {
       "@type": "Organization",
@@ -44,11 +44,12 @@
 <header class="site-header">
   <div class="header-inner">
     <a href="/" class="logo" aria-label="SAFIE IA for Business — Página inicial">
-      <span class="logo-marca">SAFIE <span>IA</span></span>
+      <span class="logo-marca">SAFIE <span>IA for Business</span></span>
       <span class="logo-sub">Direito &amp; Contabilidade</span>
     </a>
     <nav id="nav-principal" class="nav-principal" aria-label="Navegação principal">
       <a href="/" class="ativo">Home</a>
+      <a href="/artigos/">Todos os artigos</a>
       <a href="/temas/">Temas</a>
       <a href="/sobre.html">Sobre</a>
       <a href="/busca.html">Busca</a>
@@ -64,7 +65,7 @@
   <!-- Hero -->
   <section class="hero">
     <h1>Inteligência Artificial e Negócios:<br><em>análise jurídica e contábil</em></h1>
-    <p>Publicações diárias sobre regulação de IA, LGPD, direitos autorais, tributação e contratos. Para founders, gestores e profissionais que atuam com tecnologia.</p>
+    <p>Publicações diárias sobre regulação de IA, LGPD, direitos autorais, tributação e contratos. Para founders, gestores e advogados do setor de tecnologia e inovação.</p>
 
     <div class="busca-container">
       <input
@@ -78,6 +79,9 @@
   </section>
 
   <div class="container">
+
+    <!-- Destaque (carregado por home.js) -->
+    <div id="destaque-container"></div>
 
     <!-- Filtros por tema -->
     <nav class="filtros" aria-label="Filtrar por tema">
@@ -95,151 +99,23 @@
 
     <p class="secao-titulo">Artigos recentes</p>
 
-    <!-- Grid de artigos (gerado automaticamente pelo publicar.py) -->
-    <div class="artigos-grid" id="artigos-grid">
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-27-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na construção de um marco regulatório para inteligência artificial, com o PL 2.338/2023 em tramitação no Congresso e diretrizes já emanadas por órgãos setoriais. Para empresas de IA, i</p>
-  <div class="card-meta">
-    <span class="card-data">27 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-27-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
+    <!-- Galeria de 12 artigos (carregada por home.js) -->
+    <div class="artigos-grid artigos-grid-home" id="artigos-grid"></div>
 
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na regulamentação de inteligência artificial com o PL 2.338/2023, aprovado pelo Senado em 2024 e em tramitação na Câmara. Para empresas de IA, a questão central não é apenas inovar, ma</p>
-  <div class="card-meta">
-    <span class="card-data">26 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance.html">Regulação de IA no Brasil: KYC, Fraudes e Compliance</a></h2>
-  <p class="card-resumo">A MIT Technology Review Brasil identificou dezenas de canais no Telegram oferecendo serviços para burlar processos de KYC em bancos e corretoras de criptomoedas, usando ferramentas baseadas em IA gene</p>
-  <div class="card-meta">
-    <span class="card-data">25 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na regulação de inteligência artificial enquanto tecnologias de risco emergente, como a biologia sintética com bactérias-espelho, evidenciam lacunas graves nos marcos normativos vigent</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">IA na Saúde: Regulação e Riscos Jurídicos no Brasil</a></h2>
-  <p class="card-resumo">A inteligência artificial está migrando a saúde de um modelo reativo para um modelo preventivo e personalizado, com uso de dados em tempo real. No Brasil, esse avanço ocorre em um vácuo regulatório pa</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">Ler artigo →</a>
-  </div>
-</div>
-
-</div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance.html">Regulação de IA no Brasil: KYC, Fraudes e Compliance</a></h2>
-  <p class="card-resumo">A MIT Technology Review Brasil identificou dezenas de canais no Telegram oferecendo serviços para burlar processos de KYC em bancos e corretoras de criptomoedas, usando ferramentas baseadas em IA gene</p>
-  <div class="card-meta">
-    <span class="card-data">25 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na regulação de inteligência artificial enquanto tecnologias de risco emergente, como a biologia sintética com bactérias-espelho, evidenciam lacunas graves nos marcos normativos vigent</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">IA na Saúde: Regulação e Riscos Jurídicos no Brasil</a></h2>
-  <p class="card-resumo">A inteligência artificial está migrando a saúde de um modelo reativo para um modelo preventivo e personalizado, com uso de dados em tempo real. No Brasil, esse avanço ocorre em um vácuo regulatório pa</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">Ler artigo →</a>
-  </div>
-</div>
-
-</div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na regulação de inteligência artificial enquanto tecnologias de risco emergente, como a biologia sintética com bactérias-espelho, evidenciam lacunas graves nos marcos normativos vigent</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">IA na Saúde: Regulação e Riscos Jurídicos no Brasil</a></h2>
-  <p class="card-resumo">A inteligência artificial está migrando a saúde de um modelo reativo para um modelo preventivo e personalizado, com uso de dados em tempo real. No Brasil, esse avanço ocorre em um vácuo regulatório pa</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">Ler artigo →</a>
-  </div>
-</div>
-
-</div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Regulação de IA no Brasil: o que muda em 2026</a></h2>
-  <p class="card-resumo">O Brasil avança na regulação de inteligência artificial enquanto tecnologias de risco emergente, como a biologia sintética com bactérias-espelho, evidenciam lacunas graves nos marcos normativos vigent</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html">Ler artigo →</a>
-  </div>
-</div>
-
-<div class="card-artigo" data-tema="regulacao-ia-brasil">
-  <span class="card-tema">Regulação de IA no Brasil</span>
-  <h2><a href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">IA na Saúde: Regulação e Riscos Jurídicos no Brasil</a></h2>
-  <p class="card-resumo">A inteligência artificial está migrando a saúde de um modelo reativo para um modelo preventivo e personalizado, com uso de dados em tempo real. No Brasil, esse avanço ocorre em um vácuo regulatório pa</p>
-  <div class="card-meta">
-    <span class="card-data">24 de abril de 2026</span>
-    <a class="card-link" href="/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html">Ler artigo →</a>
-  </div>
-</div>
-
-<!-- /ARTIGOS_PLACEHOLDER -->
+    <!-- Botão ver todos -->
+    <div class="ver-todos-container">
+      <a href="/artigos/" class="btn-ver-todos">Ver todos os artigos →</a>
     </div>
-
-    <!-- Paginação (gerada pelo publicar.py quando houver mais de 10 artigos) -->
-    <!-- PAGINACAO_PLACEHOLDER -->
 
   </div>
 </main>
 
 <footer class="site-footer">
   <div class="footer-inner">
-    <div class="footer-logo">SAFIE <span>IA</span></div>
+    <div class="footer-logo">SAFIE <span>IA for Business</span></div>
     <nav class="footer-links">
       <a href="/">Home</a>
+      <a href="/artigos/">Todos os artigos</a>
       <a href="/temas/">Temas</a>
       <a href="/sobre.html">Sobre</a>
       <a href="/busca.html">Busca</a>
@@ -247,13 +123,14 @@
       <a href="/sitemap.xml">Sitemap</a>
     </nav>
     <p class="footer-copy">
-      © 2026 <a href="https://safie.com.br" target="_blank" rel="noopener">SAFIE</a> — Direito e contabilidade para empresas de IA e tecnologia disruptiva no Brasil.<br>
+      © 2026 <a href="https://safie.com.br" target="_blank" rel="noopener">SAFIE</a> — Direito e contabilidade para empresas que usam inteligência artificial.<br>
       As informações têm caráter educativo e não substituem assessoria jurídica individualizada.<br>
-      Contato: <a href="mailto:contato@safie.com.br">contato@safie.com.br</a>
+      Análise de tráfego anônima via Cloudflare.
     </p>
   </div>
 </footer>
 
+<script src="/assets/js/home.js"></script>
 <script src="/assets/js/busca.js"></script>
 </body>
 </html>
