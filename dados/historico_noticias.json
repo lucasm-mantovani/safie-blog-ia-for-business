@@ -1,1 +1,16 @@
-{"noticias": []}
+{
+  "noticias": [
+    {
+      "data_publicacao": "2026-05-06T11:01:01.521379+00:00",
+      "titulo_noticia": "Trabalhadores chineses de tecnologia treinam ‘clones de IA’ para substituí-los",
+      "url_fonte": "https://mittechreview.com.br/treinamento-duplos-ia-trabalhadores-china/",
+      "tema_slug": "regulacao-ia-brasil"
+    },
+    {
+      "data_publicacao": "2026-05-06T16:50:51.625848+00:00",
+      "titulo_noticia": "Empreender na era da Inteligência Aplicada",
+      "url_fonte": "https://startupi.com.br/empreender-na-era-da-inteligencia-aplicada/",
+      "tema_slug": "lgpd-ia"
+    }
+  ]
+}

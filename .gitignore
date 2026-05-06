@@ -6,3 +6,9 @@ dados/consumo_apify.json
 __pycache__/
 *.pyc
 .DS_Store
+
+# backups locais (nunca versionar)
+.env.bkp*
+.env.backup*
+*.bkp.*
+.git/config.bkp.*
