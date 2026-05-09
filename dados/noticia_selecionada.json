@@ -1,10 +1,11 @@
 {
-  "titulo": "Moraes é sorteado relator de ações que questionam a validade da Dosimetria no STF",
-  "url": "https://www.infomoney.com.br/politica/moraes-e-sorteado-relator-de-acoes-que-questionam-a-validade-da-dosimetria-no-stf/",
-  "fonte": "InfoMoney",
-  "data": "2026-05-09T05:03:44+00:00",
-  "resumo": "<p><img alt=\"Alexandre de Moraes STF\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://www.infomoney.com.br/wp-content/uploads/2026/03/55129476258_ba507ef917_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"300\" />A no",
-  "tema_slug": "ia-trabalhista",
-  "tema_nome": "IA no trabalho e questões trabalhistas",
-  "origem": "rss"
+  "tipo": "evergreen",
+  "tema_slug": "lgpd-ia",
+  "tema_nome": "LGPD e proteção de dados em IA",
+  "titulo": "LGPD e inteligência artificial: o que toda empresa precisa saber",
+  "resumo": "Guia prático sobre como sistemas de IA devem tratar dados pessoais no Brasil, quais bases legais usar e as obrigações perante a ANPD.",
+  "url": "",
+  "fonte": "evergreen",
+  "data": "",
+  "origem": "evergreen"
 }
