@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-11-contratos-e-responsabilidade-civil-em-ia-no-brasil",
+    "titulo": "Contratos e responsabilidade civil",
+    "resumo": "A ausência de legislação específica sobre IA no Brasil não elimina a responsabilidade civil das empresas que desenvolvem ou implantam sistemas inteligentes. O Código Civil, o CDC e a LGPD já formam o ",
+    "tema": "Contratos e responsabilidade em IA",
+    "tema_slug": "contratos-ia",
+    "data": "2026-05-11T09:32:17Z"
+  },
+  {
     "slug": "2026-05-10-tributacao-de-empresas-de-tecnologia-e-ia",
     "titulo": "Tributação de empresas de",
     "resumo": "Uma rede de telefonia americana anunciou bloqueio automatizado de conteúdos por categoria, usando IA para filtragem. No Brasil, serviços com essa arquitetura técnica podem ter enquadramento tributário",
