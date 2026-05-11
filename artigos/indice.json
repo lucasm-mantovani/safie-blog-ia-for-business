@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-11-lgpd-e-protecao-de-dados-em-ia-guia-pratico",
+    "titulo": "LGPD e proteção de dados em IA:",
+    "resumo": "A LGPD (Lei nº 13.709/2018) impõe obrigações concretas a qualquer empresa que utilize dados pessoais para treinar, operar ou melhorar sistemas de inteligência artificial no Brasil. O descumprimento po",
+    "tema": "LGPD e proteção de dados em IA",
+    "tema_slug": "lgpd-ia",
+    "data": "2026-05-11T11:01:48Z"
+  },
+  {
     "slug": "2026-05-11-contratos-e-responsabilidade-civil-em-ia-no-brasil",
     "titulo": "Contratos e responsabilidade civil",
     "resumo": "A ausência de legislação específica sobre IA no Brasil não elimina a responsabilidade civil das empresas que desenvolvem ou implantam sistemas inteligentes. O Código Civil, o CDC e a LGPD já formam o ",

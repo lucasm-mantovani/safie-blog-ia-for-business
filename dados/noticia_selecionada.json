@@ -1,10 +1,11 @@
 {
-  "titulo": "Day Trade hoje (11): Ibovespa sobe e tenta recuperação; veja minicontratos",
-  "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-11052026/",
-  "fonte": "InfoMoney",
-  "data": "2026-05-11T11:18:45+00:00",
-  "resumo": "<p><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"169\" src=\"https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"300\" />Confira os pontos de suporte e resistê",
-  "tema_slug": "contratos-ia",
-  "tema_nome": "Contratos e responsabilidade em IA",
-  "origem": "rss"
+  "tipo": "evergreen",
+  "tema_slug": "lgpd-ia",
+  "tema_nome": "LGPD e proteção de dados em IA",
+  "titulo": "LGPD e inteligência artificial: o que toda empresa precisa saber",
+  "resumo": "Guia prático sobre como sistemas de IA devem tratar dados pessoais no Brasil, quais bases legais usar e as obrigações perante a ANPD.",
+  "url": "",
+  "fonte": "evergreen",
+  "data": "",
+  "origem": "evergreen"
 }
