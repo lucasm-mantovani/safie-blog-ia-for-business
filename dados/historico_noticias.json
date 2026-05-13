@@ -77,6 +77,12 @@
       "titulo_noticia": "O que mudaria, em termos de trânsito, se a gente tivesse carro voador?",
       "url_fonte": "https://mittechreview.com.br/podcast-mobilidades-revista/",
       "tema_slug": "regulacao-ia-brasil"
+    },
+    {
+      "data_publicacao": "2026-05-13T11:01:02.314973+00:00",
+      "titulo_noticia": "A segunda semana do julgamento do caso Musk-Altman",
+      "url_fonte": "https://mittechreview.com.br/elon-musk-sam-altman-bastidores-julgamento/",
+      "tema_slug": "tributacao-tech-ia"
     }
   ]
 }
