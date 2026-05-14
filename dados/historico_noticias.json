@@ -83,6 +83,12 @@
       "titulo_noticia": "A segunda semana do julgamento do caso Musk-Altman",
       "url_fonte": "https://mittechreview.com.br/elon-musk-sam-altman-bastidores-julgamento/",
       "tema_slug": "tributacao-tech-ia"
+    },
+    {
+      "data_publicacao": "2026-05-14T03:07:08.699619+00:00",
+      "titulo_noticia": "Onde o Brasil está na sua jornada de IA?",
+      "url_fonte": "https://mittechreview.com.br/onde-o-brasil-esta-na-sua-jornada-de-ia/",
+      "tema_slug": "lgpd-ia"
     }
   ]
 }
