@@ -113,6 +113,12 @@
       "titulo_noticia": "Decisão de Corte de Cassação pode favorecer brasileiros que buscam cidadania italiana",
       "url_fonte": "https://www.infomoney.com.br/mundo/decisao-de-corte-de-cassacao-pode-favorecer-brasileiros-que-buscam-cidadania-italiana/",
       "tema_slug": "regulacao-ia-brasil"
+    },
+    {
+      "data_publicacao": "2026-05-16T11:01:09.431520+00:00",
+      "titulo_noticia": "Nova ferramenta de startup permite depurar LLMs",
+      "url_fonte": "https://mittechreview.com.br/silico-depurar-modelos-de-ia/",
+      "tema_slug": "tributacao-tech-ia"
     }
   ]
 }
