@@ -1,11 +1,10 @@
 {
-  "tipo": "evergreen",
-  "tema_slug": "lgpd-ia",
-  "tema_nome": "LGPD e proteção de dados em IA",
-  "titulo": "LGPD e inteligência artificial: o que toda empresa precisa saber",
-  "resumo": "Guia prático sobre como sistemas de IA devem tratar dados pessoais no Brasil, quais bases legais usar e as obrigações perante a ANPD.",
-  "url": "",
-  "fonte": "evergreen",
-  "data": "",
-  "origem": "evergreen"
+  "titulo": "O que vem por aí na FIV",
+  "url": "https://mittechreview.com.br/o-que-vem-por-ai-na-fiv/",
+  "fonte": "MIT Technology Review Brasil",
+  "data": "2026-05-18T12:00:05+00:00",
+  "resumo": "<p> IA, automação e tecnologias de triagem transformam a medicina reprodutiva</p>\n<p>O post <a href=\"https://mittechreview.com.br/o-que-vem-por-ai-na-fiv/\" rel=\"nofollow\">O que vem por aí na FIV</a> apareceu primeiro em <a href=\"https://mittechreview.com.br\" rel=\"nofollow\">MIT Technology Review - Br",
+  "tema_slug": "investimento-ia",
+  "tema_nome": "Investimento em IA e deep tech",
+  "origem": "rss"
 }
