@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-01-lgpd-e-protecao-de-dados-em-ia-guia-pratico",
+    "titulo": "LGPD e proteção de dados em IA:",
+    "resumo": "A LGPD se aplica integralmente ao desenvolvimento e à operação de sistemas de IA que tratam dados pessoais no Brasil. Empresas de IA precisam identificar bases legais adequadas, implementar governança",
+    "tema": "LGPD e proteção de dados em IA",
+    "tema_slug": "lgpd-ia",
+    "data": "2026-06-01T12:07:01Z"
+  },
+  {
     "slug": "2026-06-01-lgpd-e-protecao-de-dados-em-ia-o-que-sua-empresa-precisa-saber",
     "titulo": "LGPD e proteção de dados em IA: o",
     "resumo": "A LGPD impõe obrigações específicas a empresas que desenvolvem ou utilizam inteligência artificial para tratar dados pessoais, exigindo bases legais válidas, transparência e mecanismos de proteção des",
