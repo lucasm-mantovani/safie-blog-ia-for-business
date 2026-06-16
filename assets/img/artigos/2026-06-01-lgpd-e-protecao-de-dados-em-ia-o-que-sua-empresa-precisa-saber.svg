@@ -86,13 +86,13 @@
 
   <!-- Título — linha 1 -->
   <text x="52" y="286" fill="#ffffff"
-        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">LGPD e proteção</text>
+        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">LGPD e proteção de</text>
   <!-- Título — linha 2 -->
-  <text x="52" y="352" fill="#a78bfa"
-        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">de dados em IA: o</text>
+  <text x="52" y="352" fill="#ffffff"
+        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">dados em IA: o que sua</text>
   <!-- Título — linha 3 (última linha fica na cor de destaque) -->
   <text x="52" y="418" fill="#a78bfa"
-        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700"></text>
+        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">empresa precisa saber</text>
 
   <!-- Barra de destaque — canto inferior esquerdo -->
   <rect x="52" y="572" width="64" height="4" fill="#a78bfa"/>

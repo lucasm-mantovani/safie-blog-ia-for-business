@@ -86,10 +86,10 @@
 
   <!-- Título — linha 1 -->
   <text x="52" y="286" fill="#ffffff"
-        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">AI Act e chips</text>
+        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">AI Act e chips cerebrais:</text>
   <!-- Título — linha 2 -->
   <text x="52" y="352" fill="#a78bfa"
-        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">cerebrais: o que</text>
+        font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">o que muda para startups</text>
   <!-- Título — linha 3 (última linha fica na cor de destaque) -->
   <text x="52" y="418" fill="#a78bfa"
         font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700"></text>
