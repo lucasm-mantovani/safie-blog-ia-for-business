@@ -5,7 +5,7 @@ Fluxo:
   1. Para cada tema em config/temas.json, busca notícias via RSS
   2. Filtra resultados das últimas 48h
   3. Seleciona a notícia mais relevante (sem repetir histórico dos últimos 15 dias)
-  4. Se RSS não encontrar nada → retorna tema evergreen
+  4. Se RSS não trouxer notícia fresca → encerra com exit 75 (Direção 1: sem evergreen, não publica)
 
 Uso:
   python3 scripts/buscar_noticia.py
@@ -245,68 +245,16 @@ def selecionar_melhor(candidatos: List[Dict]) -> Optional[Dict]:
     return escolhida
 
 
-# ── Evergreen fallback ────────────────────────────────────────────────────────
-
-TEMAS_EVERGREEN = [
-    {
-        "tipo": "evergreen",
-        "tema_slug": "lgpd-ia",
-        "tema_nome": "LGPD e proteção de dados em IA",
-        "titulo": "LGPD e inteligência artificial: o que toda empresa precisa saber",
-        "resumo": "Guia prático sobre como sistemas de IA devem tratar dados pessoais no Brasil, quais bases legais usar e as obrigações perante a ANPD.",
-        "url": "",
-        "fonte": "evergreen",
-        "data": "",
-        "origem": "evergreen",
-    },
-    {
-        "tipo": "evergreen",
-        "tema_slug": "regulacao-ia-brasil",
-        "tema_nome": "Regulação de IA no Brasil",
-        "titulo": "PL 2338: o que muda para empresas que usam IA",
-        "resumo": "Análise completa do Projeto de Lei 2338, o marco legal de inteligência artificial no Brasil, e o impacto prático para startups e empresas de tecnologia.",
-        "url": "",
-        "fonte": "evergreen",
-        "data": "",
-        "origem": "evergreen",
-    },
-    {
-        "tipo": "evergreen",
-        "tema_slug": "direitos-autorais-ia",
-        "tema_nome": "Direitos autorais e IA generativa",
-        "titulo": "Quem é o autor do conteúdo gerado por IA?",
-        "resumo": "Análise jurídica sobre titularidade de obras criadas por inteligência artificial, uso de dados para treinamento e o debate internacional sobre copyright e IA generativa.",
-        "url": "",
-        "fonte": "evergreen",
-        "data": "",
-        "origem": "evergreen",
-    },
-    {
-        "tipo": "evergreen",
-        "tema_slug": "contratos-ia",
-        "tema_nome": "Contratos e responsabilidade em IA",
-        "titulo": "Responsabilidade civil por erros de algoritmos: quem responde?",
-        "resumo": "Como distribuir responsabilidade em contratos de software com IA, cláusulas essenciais de SLA e o que diz a jurisprudência brasileira sobre danos causados por sistemas automatizados.",
-        "url": "",
-        "fonte": "evergreen",
-        "data": "",
-        "origem": "evergreen",
-    },
-]
-
-
-def escolher_evergreen(temas_slugs_usados: List[str]) -> Dict:
-    for tema in TEMAS_EVERGREEN:
-        if tema["tema_slug"] not in temas_slugs_usados:
-            return tema
-    return TEMAS_EVERGREEN[0]
-
-
 # ── Orquestrador principal ────────────────────────────────────────────────────
 
 def main(apenas_tema: str = "") -> Dict:
     log.info("=" * 60)
     log.info("BUSCAR NOTÍCIA — início")
+
+    # Higiene: limpar saída anterior para evitar consumo ambíguo (Direção 1)
+    arquivo_saida = BASE / "dados" / "noticia_selecionada.json"
+    if arquivo_saida.exists():
+        arquivo_saida.unlink()
 
     config_temas  = ler_json(CONFIG_TEMAS, {"temas": []})
     config_fontes = ler_json(CONFIG_FONTES, {"rss_feeds": []})
@@ -328,17 +276,17 @@ def main(apenas_tema: str = "") -> Dict:
 
     noticia = selecionar_melhor(todos_candidatos)
 
+    # Sem notícia fresca → não publica hoje (Direção 1, sem evergreen)
     if not noticia:
-        log.warning("Nenhuma notícia nova encontrada. Usando tema evergreen.")
-        slugs_usados = [t["slug"] for t in temas]
-        noticia = escolher_evergreen(slugs_usados)
+        log.warning("Nenhuma notícia nova encontrada hoje. Encerrando sem publicar (exit 75).")
+        sys.exit(75)
 
     log.info("=" * 60)
     log.info("RESULTADO FINAL:")
     log.info(f"  Tema:   {noticia.get('tema_nome')}")
     log.info(f"  Título: {noticia.get('titulo')}")
     log.info(f"  Fonte:  {noticia.get('fonte')} ({noticia.get('origem')})")
-    log.info(f"  URL:    {noticia.get('url') or '(sem URL — evergreen)'}")
+    log.info(f"  URL:    {noticia.get('url') or '(sem URL)'}")
     log.info("=" * 60)
 
     resultado_path = BASE / "dados" / "noticia_selecionada.json"
