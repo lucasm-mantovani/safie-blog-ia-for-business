@@ -68,13 +68,13 @@
 
     return '<div class="card-artigo">'
       + '<span class="card-tema">' + escHtml(artigo.tema) + '</span>'
-      + '<h2><a href="/artigos/' + escHtml(artigo.slug) + '.html">'
+      + '<h2><a href="/artigos/' + escHtml(artigo.slug) + '">'
       +   escHtml(artigo.titulo)
       + '</a></h2>'
       + '<p class="card-resumo">' + escHtml(artigo.resumo) + '</p>'
       + '<div class="card-meta">'
       +   '<span class="card-data">' + data + '</span>'
-      +   '<a class="card-link" href="/artigos/' + escHtml(artigo.slug) + '.html">Ler artigo →</a>'
+      +   '<a class="card-link" href="/artigos/' + escHtml(artigo.slug) + '">Ler artigo →</a>'
       + '</div>'
       + '</div>';
   }
@@ -133,7 +133,7 @@
 
     inputHeader.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' && inputHeader.value.trim().length >= 2) {
-        window.location.href = '/busca.html?q=' + encodeURIComponent(inputHeader.value.trim());
+        window.location.href = '/busca?q=' + encodeURIComponent(inputHeader.value.trim());
       }
     });
   }
@@ -147,7 +147,7 @@
     function ir() {
       const q = inputInline.value.trim();
       if (q.length >= 2) {
-        window.location.href = '/busca.html?q=' + encodeURIComponent(q);
+        window.location.href = '/busca?q=' + encodeURIComponent(q);
       }
     }
 

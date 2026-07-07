@@ -8,7 +8,7 @@
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/sobre.html</loc>
+    <loc>https://ia.safie.blog.br/sobre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,626 +20,626 @@
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/regulacao-ia-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/temas/regulacao-ia-brasil</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/ai-act.html</loc>
+    <loc>https://ia.safie.blog.br/temas/ai-act</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/direitos-autorais-ia.html</loc>
+    <loc>https://ia.safie.blog.br/temas/direitos-autorais-ia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/lgpd-ia.html</loc>
+    <loc>https://ia.safie.blog.br/temas/lgpd-ia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/contratos-ia.html</loc>
+    <loc>https://ia.safie.blog.br/temas/contratos-ia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/tributacao-tech-ia.html</loc>
+    <loc>https://ia.safie.blog.br/temas/tributacao-tech-ia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/investimento-ia.html</loc>
+    <loc>https://ia.safie.blog.br/temas/investimento-ia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://ia.safie.blog.br/temas/ia-trabalhista.html</loc>
+    <loc>https://ia.safie.blog.br/temas/ia-trabalhista</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Artigos adicionados automaticamente pelo publicar.py -->
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-06-faturamento-em-ia-metricas-reais-para-investidores.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-06-faturamento-em-ia-metricas-reais-para-investidores</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-06-ai-act-e-o-radar-da-blackrock-na-america-latina.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-06-ai-act-e-o-radar-da-blackrock-na-america-latina</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-03-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-03-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-03-investimento-em-ia-e-deep-tech-no-brasil-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-03-investimento-em-ia-e-deep-tech-no-brasil-em-2026</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-01-tributacao-de-empresas-de-ia-no-brasil-o-que-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-01-tributacao-de-empresas-de-ia-no-brasil-o-que-saber</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-07-01-ai-act-da-ue-o-que-muda-para-startups-brasileiras.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-07-01-ai-act-da-ue-o-que-muda-para-startups-brasileiras</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-29-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-29-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-29-investimento-em-ia-licoes-do-colapso-das-bets.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-29-investimento-em-ia-licoes-do-colapso-das-bets</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-26-tributacao-de-empresas-de-ia-no-brasil-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-26-tributacao-de-empresas-de-ia-no-brasil-em-2026</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-24-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-24-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-24-ai-act-e-regulacao-de-ia-o-que-muda-para-o-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-24-ai-act-e-regulacao-de-ia-o-que-muda-para-o-brasil</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-22-tributacao-de-empresas-de-ia-no-brasil-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-22-tributacao-de-empresas-de-ia-no-brasil-em-2026</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-22-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-22-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-19-lgpd-e-ia-no-esporte-dados-de-atletas-em-risco.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-19-lgpd-e-ia-no-esporte-dados-de-atletas-em-risco</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-19-tributacao-de-empresas-de-ia-no-brasil-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-19-tributacao-de-empresas-de-ia-no-brasil-guia-pratico</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-17-stf-marco-civil-e-ia-o-que-muda-para-startups.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-17-stf-marco-civil-e-ia-o-que-muda-para-startups</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-17-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-17-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-16-ai-act-e-o-cenario-regulatorio-global-de-ia-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-16-ai-act-e-o-cenario-regulatorio-global-de-ia-em-2026</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-15-lgpd-e-ia-quando-o-codigo-vira-passivo-juridico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-15-lgpd-e-ia-quando-o-codigo-vira-passivo-juridico</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-15-investimento-em-ia-e-deep-tech-no-brasil-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-15-investimento-em-ia-e-deep-tech-no-brasil-2026</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-14-tributacao-de-empresas-de-tecnologia-e-ia.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-14-tributacao-de-empresas-de-tecnologia-e-ia</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-14-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-14-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-13-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-13-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-13-ai-act-e-ia-confiavel-o-que-muda-para-o-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-13-ai-act-e-ia-confiavel-o-que-muda-para-o-brasil</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-12-contratos-e-responsabilidade-em-ia-o-que-sua-empresa-deve-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-12-contratos-e-responsabilidade-em-ia-o-que-sua-empresa-deve-saber</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-12-ia-no-trabalho-riscos-trabalhistas-ao-escalar-rapido.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-12-ia-no-trabalho-riscos-trabalhistas-ao-escalar-rapido</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-11-gargalo-em-engenharia-ameaca-startups-de-ia-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-11-gargalo-em-engenharia-ameaca-startups-de-ia-no-brasil</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-11-tributacao-de-data-centers-e-ia-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-11-tributacao-de-data-centers-e-ia-no-brasil</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-10-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-10-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-10-lgpd-e-ia-no-marketing-riscos-e-obrigacoes.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-10-lgpd-e-ia-no-marketing-riscos-e-obrigacoes</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-09-ai-act-e-a-bipolaridade-regulatoria-das-big-techs.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-09-ai-act-e-a-bipolaridade-regulatoria-das-big-techs</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-09-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-09-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-08-lgpd-e-protecao-de-dados-em-ia-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-08-lgpd-e-protecao-de-dados-em-ia-guia-pratico</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-08-investimento-em-ia-e-deep-tech-no-brasil-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-08-investimento-em-ia-e-deep-tech-no-brasil-2026</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-07-tributacao-de-empresas-de-ia-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-07-tributacao-de-empresas-de-ia-o-que-muda-em-2026</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-07-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-07-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-06-lgpd-e-ia-nos-escritorios-o-que-muda-na-pratica.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-06-lgpd-e-ia-nos-escritorios-o-que-muda-na-pratica</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-06-ia-no-trabalho-direitos-e-obrigacoes-trabalhistas.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-06-ia-no-trabalho-direitos-e-obrigacoes-trabalhistas</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-05-ai-act-e-chips-cerebrais-o-que-muda-para-startups.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-05-ai-act-e-chips-cerebrais-o-que-muda-para-startups</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-05-contratos-e-responsabilidade-em-ia-o-que-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-05-contratos-e-responsabilidade-em-ia-o-que-saber</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-04-tributacao-de-empresas-de-ia-no-brasil-o-que-muda.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-04-tributacao-de-empresas-de-ia-no-brasil-o-que-muda</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-04-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-04-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-03-investimento-em-ia-e-deep-tech-no-brasil-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-03-investimento-em-ia-e-deep-tech-no-brasil-em-2026</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-03-lgpd-e-ia-o-que-sua-startup-precisa-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-03-lgpd-e-ia-o-que-sua-startup-precisa-saber</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-02-ai-act-e-regulacao-internacional-de-ia-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-02-ai-act-e-regulacao-internacional-de-ia-em-2026</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-02-lgpd-e-ia-o-que-sua-empresa-precisa-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-02-lgpd-e-ia-o-que-sua-empresa-precisa-saber</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-01-lgpd-e-protecao-de-dados-em-ia-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-01-lgpd-e-protecao-de-dados-em-ia-guia-pratico</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-06-01-lgpd-e-protecao-de-dados-em-ia-o-que-sua-empresa-precisa-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-06-01-lgpd-e-protecao-de-dados-em-ia-o-que-sua-empresa-precisa-saber</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-23-lgpd-e-protecao-de-dados-em-ia-o-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-23-lgpd-e-protecao-de-dados-em-ia-o-guia-pratico</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-23-tributacao-de-empresas-de-ia-no-brasil-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-23-tributacao-de-empresas-de-ia-no-brasil-em-2026</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-22-robbin-capta-us-108-mi-ia-e-credito-b2b-via-pix.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-22-robbin-capta-us-108-mi-ia-e-credito-b2b-via-pix</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-22-tv-30-e-ia-regulacao-e-impactos-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-22-tv-30-e-ia-regulacao-e-impactos-no-brasil</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-21-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-21-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-21-ai-act-e-regulacao-internacional-de-ia-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-21-ai-act-e-regulacao-internacional-de-ia-em-2026</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-20-lgpd-e-ia-obrigacoes-reais-para-startups-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-20-lgpd-e-ia-obrigacoes-reais-para-startups-em-2026</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-20-tributacao-de-empresas-de-ia-no-brasil-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-20-tributacao-de-empresas-de-ia-no-brasil-guia-pratico</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-19-contratos-de-ia-e-infraestrutura-critica-riscos-reais.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-19-contratos-de-ia-e-infraestrutura-critica-riscos-reais</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-19-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-19-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-18-ia-na-fiv-investimento-direito-e-contabilidade.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-18-ia-na-fiv-investimento-direito-e-contabilidade</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-18-lgpd-e-ia-o-que-sua-empresa-precisa-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-18-lgpd-e-ia-o-que-sua-empresa-precisa-saber</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-17-ai-act-e-a-nova-geopolitica-da-regulacao-de-ia.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-17-ai-act-e-a-nova-geopolitica-da-regulacao-de-ia</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-17-ia-no-trabalho-riscos-trabalhistas-da-automacao.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-17-ia-no-trabalho-riscos-trabalhistas-da-automacao</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-16-tributacao-de-empresas-de-ia-no-brasil-o-que-muda.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-16-tributacao-de-empresas-de-ia-no-brasil-o-que-muda</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-16-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-16-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-15-energia-solar-e-ia-oportunidades-de-investimento.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-15-energia-solar-e-ia-oportunidades-de-investimento</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-15-contratos-e-responsabilidade-em-ia-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-15-contratos-e-responsabilidade-em-ia-no-brasil</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-14-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-14-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-14-lgpd-e-ia-o-que-sua-startup-precisa-saber.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-14-lgpd-e-ia-o-que-sua-startup-precisa-saber</loc>
     <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-13-tributacao-de-empresas-de-ia-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-13-tributacao-de-empresas-de-ia-no-brasil</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-13-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-13-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-12-ai-act-e-regulacao-internacional-de-ia-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-12-ai-act-e-regulacao-internacional-de-ia-em-2026</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-12-terras-raras-e-ia-o-que-o-cade-analisa.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-12-terras-raras-e-ia-o-que-o-cade-analisa</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-11-lgpd-e-protecao-de-dados-em-ia-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-11-lgpd-e-protecao-de-dados-em-ia-guia-pratico</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-11-contratos-e-responsabilidade-civil-em-ia-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-11-contratos-e-responsabilidade-civil-em-ia-no-brasil</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-10-tributacao-de-empresas-de-tecnologia-e-ia.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-10-tributacao-de-empresas-de-tecnologia-e-ia</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-10-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-10-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-09-lgpd-e-protecao-de-dados-em-ia-guia-pratico.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-09-lgpd-e-protecao-de-dados-em-ia-guia-pratico</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-09-ia-no-trabalho-questoes-trabalhistas-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-09-ia-no-trabalho-questoes-trabalhistas-em-2026</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-08-direitos-autorais-e-ia-generativa-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-08-direitos-autorais-e-ia-generativa-no-brasil</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-08-ia-e-energia-nuclear-o-que-muda-para-investidores.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-08-ia-e-energia-nuclear-o-que-muda-para-investidores</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-07-tributacao-de-empresas-de-ia-no-brasil-o-essencial.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-07-tributacao-de-empresas-de-ia-no-brasil-o-essencial</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-07-ai-act-e-regulacao-internacional-de-ia-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-07-ai-act-e-regulacao-internacional-de-ia-em-2026</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-06-lgpd-e-ia-obrigacoes-reais-para-startups.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-06-lgpd-e-ia-obrigacoes-reais-para-startups</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-05-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-05-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-04-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-04-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-03-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-03-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-02-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-02-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-05-01-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-05-01-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-30-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-30-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-29-ia-na-saude-regulacao-e-riscos-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-29-ia-na-saude-regulacao-e-riscos-no-brasil</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-27-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-27-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-26-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-25-regulacao-de-ia-no-brasil-kyc-fraudes-e-compliance</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-24-regulacao-de-ia-no-brasil-o-que-muda-em-2026</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ia.safie.blog.br/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil.html</loc>
+    <loc>https://ia.safie.blog.br/artigos/2026-04-24-ia-na-saude-regulacao-e-riscos-juridicos-no-brasil</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
