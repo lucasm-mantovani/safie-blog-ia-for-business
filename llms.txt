@@ -6,6 +6,7 @@
 
 ## Artigos
 
+- [Aquisição em IA: o que a compra da Data Rudder revela](https://ia.safie.blog.br/artigos/2026-07-10-aquisicao-em-ia-o-que-a-compra-da-data-rudder-revela): A Núclea anunciou acordo para aquisição da Data Rudder, startup de inteligência artificial especializada em prevenção a fraudes, sinalizando maturidade do M&A em deep tech no Brasil
 - [Tributação de empresas de IA: o que muda em 2026](https://ia.safie.blog.br/artigos/2026-07-08-tributacao-de-empresas-de-ia-o-que-muda-em-2026): A substituição de tarefas juniores por IA levanta questões trabalhistas e tributárias concretas para empresas brasileiras
 - [Regulação de IA no Brasil: o que muda em 2026](https://ia.safie.blog.br/artigos/2026-07-08-regulacao-de-ia-no-brasil-o-que-muda-em-2026): O Brasil avança na regulação de inteligência artificial com o PL 2338/2023, enquanto startups globais como a Subquadratic anunciam avanços técnicos que desafiam os limites dos modelos de linguagem
 - [Faturamento em IA: métricas reais para investidores](https://ia.safie.blog.br/artigos/2026-07-06-faturamento-em-ia-metricas-reais-para-investidores): O Startupi alertou que o faturamento de empresas de IA pode esconder a real saúde financeira do negócio, especialmente quando contratos são inflados por créditos gratuitos ou receitas não recorrentes
