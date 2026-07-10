@@ -201,7 +201,8 @@ def gerar_html_artigo(artigo: dict, imagem_url: str = "", imagem_rel: str = "") 
     ano = datetime.now().strftime("%Y")
 
     bloco_imagem = (
-        f'<img class="artigo-capa" src="{imagem_rel}" alt="{artigo["titulo"]}" '
+        f'<img class="artigo-capa" src="{imagem_rel}" '
+        f'alt="{artigo["titulo"]} — capa ilustrativa do artigo sobre {artigo.get("tema_nome", "")}" '
         f'width="1200" height="630" loading="lazy">'
         if imagem_rel else ""
     )
